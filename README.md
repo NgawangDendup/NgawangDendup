@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NgawangDendup
-- 👀 I’m interested in applied microeconometrics, environment and development economics.
-- 💞️ I’m looking to collaborate on demand estimations and carbon pricing issues in developing countries.
+- 👀 My interest: applied microeconomics and applied microeconometrics.
+- 💞️ Research focus: environment, energy and development economics
 - 📫 Contact: ngawangdendup(at)gmail.com
 
 <!---
